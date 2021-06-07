@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @hoangdao98
-- 👀
-- 🌱 
-- 💞️ 
-- 📫 
 
 <!---
 hoangdao98/hoangdao98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
